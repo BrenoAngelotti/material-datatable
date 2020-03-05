@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import {AcreditationTable} from './components/acreditation-table/acreditation-table'
 
 @Component({
   selector: 'app-root',

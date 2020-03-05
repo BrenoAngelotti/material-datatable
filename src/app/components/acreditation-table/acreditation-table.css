@@ -1,0 +1,21 @@
+table {
+  width: 100%;
+}
+
+.acreditation{
+  margin: 0 0 32px 0;
+}
+
+.main-button-area{
+  padding: 16px;
+  display: flex;
+  justify-content: center;
+}
+
+.main-button{
+  align-self: center;
+}
+
+td.mat-column-menu {
+  width: 16px;
+}
